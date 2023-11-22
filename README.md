@@ -1,4 +1,6 @@
 # vue-project
+#MİLYONER OLMAK İÇİN SON 900 GÜN
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
